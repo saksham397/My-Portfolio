@@ -133,7 +133,20 @@ footer {
   .column img{
     width: 50%;
   }
-  .damn{
-    font-size: smaller;
+    .skills{
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .about{
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .projects{
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .contact{
+    margin-left: 0;
+    margin-right: 0;
   }
 }
